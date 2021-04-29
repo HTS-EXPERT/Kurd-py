@@ -57,15 +57,11 @@ def cb():
 logo = logo ="""
 =================================
 
-╦ ╦╔╦╗╔═╗  ╦ ╦╔═╗
-╚╦╝ ║ ╚═╗  ║ ║╠═╝
- ╩  ╩ ╚═╝  ╚═╝╩  
-
+HTS UP
 =================================
-TELEGRAMY MY @i4m_pr0fisor 
-CHANALIY TELGRAMM/@PROFISORCRACKER1 
-𓆩𝐘𝐓𝐒𓆪𝐏𝐑𝐎f𝐈𝐒𝐎𝐑 
-CRACKED♡BY♡YTS
+TELEGRAMY MY @i4m_EXPERT
+CHANALIY TELGRAMM/@HTS_EXPERT
+CRACKED♡BY♡HTS
 """
 back = 0
 successful = []
